@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #0f1115;
+  color: white;
+  font-family: Inter, sans-serif;
+  overflow-x: hidden;
+}
